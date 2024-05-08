@@ -6,7 +6,7 @@
 | ----------- | ----------- | ----------- | ----------- |
 | **1 issues**      | **2 issues**      | **3 issues**       | **3 issues**       |
 
-![Low](https://github.com/andygongea/testing-gh/assets/818805/4d6ff33a-3bc8-43b7-887b-da2d8196a793)
+![Low](https://github.com/andygongea/testing-gh/assets/818805/4d6ff33a-3bc8-43b7-887b-da2d8196a793#gh-light-mode-only)
 ![Medium](https://github.com/andygongea/testing-gh/assets/818805/74acc9c6-52dd-491d-b7d5-96b1d546c37f)
 ![High](https://github.com/andygongea/testing-gh/assets/818805/9a685c16-24d8-4ed2-b120-0f8cd1c45824)
 ![Critical](https://github.com/andygongea/testing-gh/assets/818805/9b4895b1-b911-4830-b4d4-f48d35323c39)
