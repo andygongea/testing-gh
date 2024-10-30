@@ -83,6 +83,7 @@ interface VerdictRequestBody {
   key: string
 }
 
+
 const setStatusCode = (error: any) => {
   switch (error.name) {
     case 'BrokenBoundary':
