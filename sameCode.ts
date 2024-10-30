@@ -221,20 +221,6 @@ exports.checkVulnLines = () => async (req: Request<{}, {}, VerdictRequestBody>, 
 }
 
 
-/*
- * Copyright (c) 2014-2023 Bjoern Kimminich & the OWASP Juice Shop contributors.
- * SPDX-License-Identifier: MIT
- */
-
-import fs = require('fs')
-import { Request, Response, NextFunction } from 'express'
-
-import { UserModel } from '../models/user'
-const utils = require('../lib/utils')
-const security = require('../lib/insecurity')
-const request = require('request')
-const logger = require('../lib/logger')
-
 module.exports = function profileImageUrlUpload () {
   return (req: Request, res: Response, next: NextFunction) => {
     if (req.body.imageUrl !== undefined) {
