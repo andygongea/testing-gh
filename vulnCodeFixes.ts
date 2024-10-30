@@ -6,6 +6,8 @@ const challengeUtils = require('../lib/challengeUtils')
 const fs = require('fs')
 const yaml = require('js-yaml')
 
+
+
 const FixesDir = 'data/static/codefixes'
 
 interface codeFix {
