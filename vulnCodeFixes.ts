@@ -2,6 +2,7 @@ import { NextFunction, Request, Response } from 'express'
 
 const accuracy = require('../lib/accuracy')
 const challengeUtils = require('../lib/challengeUtils')
+
 const fs = require('fs')
 const yaml = require('js-yaml')
 
